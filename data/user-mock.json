@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Terry Medhurst",
+    "username": "atuny0",
+    "gender": "male",
+    "birthDate": "2000-12-25",
+    "age": 50,
+    "image": "https://robohash.org/hicveldicta.png",
+    "email": "atuny0@yahoo.com"
+  },
+  {
+    "id": 2,
+    "name": "Sheldon Quigley",
+    "username": "hbingley1",
+    "gender": "male",
+    "birthDate": "2003-08-02",
+    "age": 28,
+    "image": "https://robohash.org/doloremquesintcorrupti.png",
+    "email": "hbingley1@yahoo.com"
+  },
+  {
+    "id": 3,
+    "name": "Terrill Hills",
+    "username": "rshawe2",
+    "gender": "male",
+    "birthDate": "1992-12-30",
+    "age": 38,
+    "image": "https://robohash.org/consequunturautconsequatur.png",
+    "email": "rshawe2@yahoo.com"
+  },
+  {
+    "id": 4,
+    "name": "Miles Cummerata",
+    "username": "yraigatt3",
+    "gender": "male",
+    "birthDate": "1969-01-16",
+    "age": 49,
+    "image": "https://robohash.org/facilisdignissimosdolore.png",
+    "email": "yraigatt3@yahoo.com"
+  },
+  {
+    "id": 5,
+    "name": "Mavis Schultz",
+    "username": "kmeus4",
+    "gender": "male",
+    "birthDate": "1968-11-03",
+    "age": 38,
+    "image": "https://robohash.org/adverovelit.png",
+    "email": "kmeus4@yahoo.com"
+  }
+]
