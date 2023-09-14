@@ -1,0 +1,35 @@
+.section {
+  padding: 1rem 2.5rem;
+  background: linear-gradient(
+    120deg,
+    rgba(136, 216, 249, 1) 0%,
+    rgba(135, 234, 136, 1) 35%,
+    rgba(215, 240, 102, 1) 100%
+  );
+  border-radius: 1rem;
+  cursor: pointer;
+}
+.container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.imageContainer {
+  display: flex;
+  align-items: center;
+  background-color: beige;
+  border-radius: 50%;
+}
+.contentContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.username {
+  font-size: 15px;
+  font-weight: 700;
+}
+.name {
+  font-size: 12px;
+  font-weight: 300;
+}
